@@ -2,8 +2,6 @@
 
 Um jogo de Tetris desenvolvido com Python e Pygame, com sistema de pontuação por peças colocadas, contador de linhas eliminadas, cronômetro e dificuldade progressiva.
 
-![Tetris](assets/tetris.png)
-
 ## Funcionalidades
 
 - Sete formatos clássicos de peças.
