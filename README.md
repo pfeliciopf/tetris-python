@@ -41,7 +41,3 @@ Coloque o arquivo de música na mesma pasta de `main.py` e execute:
 ```bash
 python3 main.py
 ```
-
-## Objetivo
-
-Projeto de estudo para praticar Python, lógica de programação, matrizes, colisões, eventos e desenvolvimento de jogos.
