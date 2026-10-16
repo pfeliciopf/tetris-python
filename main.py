@@ -14,8 +14,8 @@ time.sleep(1) #tempo para sincronizar a musica e o jogo
 
 pygame.mixer.init() #inicia o mixer
 
-pasta = os.path.dirname(os.path.abspath(__file__)) #descobre onde esta o arquivo
-musica = os.path.join(pasta, "MUSICA(tetris verção final).mp3") #caminho completo até a música
+pasta = os.path.dirname(os.path.abspath(__file__))
+musica = os.path.join(pasta, "musica.mp3")
 
 pygame.mixer.music.load(musica) #carrega a música
 pygame.mixer.music.set_volume(0.5) #volume de 0 a 1 
